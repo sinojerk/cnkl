@@ -1,4 +1,3 @@
-/* Requires C99 or C++14 or later */
 /* Chunklist file format */
 #include <stdint.h>
 #define SHA256_DIGEST_LENGTH          32
